@@ -1,0 +1,21 @@
+{
+  "name": "nifty-kick",
+  "description": "answers",
+  "main": "app.js",
+  "authors": [
+    "Trevor Baron"
+  ],
+  "license": "UNLICENSED",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}
